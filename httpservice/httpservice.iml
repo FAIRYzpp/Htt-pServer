@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Java Package/spring jar 2/spring-jdbc-4.0.5.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/build/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/demo/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/generated/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/legacy/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/main/core-api/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/main/core-impl/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/main/protocol-impl/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/main/user-api/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/main/user-impl/java" />
+          <root url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../../Java Package/mysql-connector-java-8.0.13" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Java Package/jedis-2.9.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Java Package/commons-pool2-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Java Package/junit-4.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../Java Package/slf4j-1.8.0-beta2/slf4j-api-1.8.0-beta2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
